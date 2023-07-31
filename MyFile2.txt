@@ -1,1 +1,1 @@
-THIS IS MY 2nd FILE FOR Branch Demo.
+This is my 2nd Text File Inside GitDemo.
